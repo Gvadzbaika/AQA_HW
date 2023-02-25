@@ -10,7 +10,6 @@ public class Task2 {
         Scanner s = new Scanner(System.in);
         System. out .print("Enter quantity:\n");
         int n = s.nextInt();
-
         if (n<=0) {
             System. out .println( "You entered the wrong number");
         }
@@ -26,7 +25,6 @@ public class Task2 {
         }
         else if (n<=30){
             double sum30= (price-price/100*10)*n;
-
             System. out .println( "You have discount - 10%\n" +
                     "Price for "+n +" items: " + sum30);
         }

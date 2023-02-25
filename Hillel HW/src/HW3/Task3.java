@@ -1,5 +1,4 @@
 package HW3;
-
 public class Task3 {
     public static void main(String[] args) {
         double month;
@@ -8,7 +7,6 @@ public class Task3 {
         hourlyPrice = Integer.parseInt(args[1]);
         double tax;
         tax = Integer.parseInt(args[2]);
-
 
         switch ((int) month) {
             case 1:
@@ -30,7 +28,6 @@ public class Task3 {
                 salaryPDF = salary-salary/100*tax;
                 System.out.println("Full salary: "+salary+"\nSalary with tax: " + salaryPDF);
                 break;
-
             case 4:
             case 6:
             case 9:
@@ -41,7 +38,6 @@ public class Task3 {
                 salaryPDF = salary-salary/100*tax;
                 System.out.println("Full salary: "+salary+"\nSalary with tax: " + salaryPDF);;
                 break;
-
             default:
                 System.out.println("Wrong month");
         }
