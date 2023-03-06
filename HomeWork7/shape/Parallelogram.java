@@ -1,15 +1,12 @@
 public class Parallelogram extends Quadrilateral {
-    private double a;
-   public double h;
 
     Parallelogram(double a, double h){
-        this.a=a;
-        this.h=h;
+        super(a,a,h);
     }
         @Override
     public double getArea() {
         double s;
-        s = a*h;
+        s = getA()*getH();
         return s;
     }
 }

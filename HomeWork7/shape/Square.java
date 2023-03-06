@@ -1,17 +1,17 @@
 public class Square extends Quadrilateral {
-    private double a;
+
     public Square(double a) {
-        this.a = a;
+        super(a,a,a);
     }
         @Override
     public double getArea() {
         double s;
-        s = a*a;
+        s = getA()*getA();
         return s;
     }
     public double getPerimeter() {
         double p;
-        p = 4*a;
+        p = 4*getA();
         return p;
     }
 }

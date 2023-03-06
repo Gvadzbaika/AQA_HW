@@ -16,6 +16,8 @@ public class Main {
 
         RighTriangle th = new RighTriangle(3,3);
         System.out.println(th.getArea());
+        Rectangle rect = new Rectangle(2,2);
+        System.out.println(rect.getArea());
 
     }
 }

@@ -1,19 +1,17 @@
 public class Diamond extends Quadrilateral {
-   private double a;
-   private double h;
 
    public Diamond(double a, double h) {
-        this.a = a;
+       super(a,a,h);
     }
        @Override
     public double getArea() {
         double s;
-        s = a*h;
+        s = getA()*getH();
         return s;
     }
     public double getPerimeter() {
         double p;
-        p = 4*a;
+        p = 4*getA();
         return p;
     }
 }

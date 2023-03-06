@@ -1,12 +1,10 @@
 public class IsoscelesTriangle extends Triangle {
-    private double a;
-    private double b;
+
     public IsoscelesTriangle(double a, double b){
-        this.a=a;
-        this.b=b;
+     super(a,a,b);
     }
     public double getArea() {
-        double s = 0.5*b*Math.sqrt((a+0.5*b)*(a-0.5*b));
+        double s = 0.5*getB()*Math.sqrt((getA()+0.5*getB())*(getA()-0.5*getB()));
         return s;
     }
 }

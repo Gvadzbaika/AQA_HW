@@ -5,39 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d8c93aa-4a7a-4d9b-a961-57625c49afc6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HomeWork7/Circle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HomeWork7/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HomeWork7/Shape.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shape/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shape/Diamond.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shape/EquilateralTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shape/IsoscelesTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shape/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shape/Parallelogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shape/Quadrilateral.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shape/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shape/RighTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shape/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shape/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shape/Trapezium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shape/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hillel HW/out/production/Hillel HW/HW3/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hillel HW/out/production/Hillel HW/HW3/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hillel HW/out/production/Hillel HW/HW3/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hillel HW/out/production/Hillel HW/HW3/Task3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hillel HW/out/production/Hillel HW/HW4/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hillel HW/out/production/Hillel HW/HW4/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hillel HW/out/production/Hillel HW/HW4/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hillel HW/out/production/Hillel HW/HW4/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hillel HW/src/HW4/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hillel HW/src/HW4/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Home work 6/out/production/Home work 6/Credit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Home work 6/out/production/Home work 6/Credit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Home work 6/out/production/Home work 6/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Home work 6/out/production/Home work 6/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Home work 6/out/production/Home work 6/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Home work 6/out/production/Home work 6/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Home work 6/out/production/Home work 6/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Home work 6/out/production/Home work 6/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Home work 6/src/Credit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Home work 6/src/Credit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Home work 6/src/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Home work 6/src/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW9/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW9/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW9/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW9/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW9/HW9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW9/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW9/src/Size.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork7/Diamond.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork7/Diamond.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork7/EquilateralTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork7/EquilateralTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork7/IsoscelesTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork7/IsoscelesTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork7/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork7/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork7/Parallelogram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork7/Parallelogram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork7/Quadrilateral.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork7/Quadrilateral.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork7/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork7/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork7/RighTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork7/RighTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork7/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork7/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork7/Trapezium.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork7/Trapezium.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork7/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork7/Triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shape/Diamond.java" beforeDir="false" afterPath="$PROJECT_DIR$/shape/Diamond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shape/EquilateralTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/shape/EquilateralTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shape/IsoscelesTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/shape/IsoscelesTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shape/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/shape/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shape/Parallelogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/shape/Parallelogram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shape/Quadrilateral.java" beforeDir="false" afterPath="$PROJECT_DIR$/shape/Quadrilateral.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shape/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/shape/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shape/RighTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/shape/RighTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shape/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/shape/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shape/Trapezium.java" beforeDir="false" afterPath="$PROJECT_DIR$/shape/Trapezium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shape/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/shape/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,20 +59,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/nataly.gvadzbaya/IdeaProjects/Hillel HW/src/HW4/Task3.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/nataly.gvadzbaya/IdeaProjects/HomeWork7"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="HomeWork7" />
@@ -92,8 +89,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>

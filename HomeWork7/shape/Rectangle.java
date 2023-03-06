@@ -1,20 +1,18 @@
 public class Rectangle extends Quadrilateral {
-   private double a;
-   private double b;
+
 
     public Rectangle(double a, double b){
-        this.a=a;
-        this.b=b;
+       super(a,a,b);
     }
         @Override
     public double getArea() {
         double s;
-        s = a*b;
+        s = getA()*getB();
         return s;
     }
     public double getPerimeter() {
         double p;
-        p = (a+b)*2;
+        p = (getA()+getB())*2;
         return p;
     }
 }
