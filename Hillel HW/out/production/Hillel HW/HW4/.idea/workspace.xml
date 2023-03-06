@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78f8fd37-db1e-4a4d-b3e1-5984f9c40176" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../HomeWork7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HomeWork7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HomeWork7/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HomeWork7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HomeWork7/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HomeWork7/HomeWork7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HomeWork7/out/production/HomeWork7/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HomeWork7/out/production/HomeWork7/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HomeWork7/out/production/HomeWork7/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HomeWork7/shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HomeWork7/shape/Diamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HomeWork7/shape/EquilateralTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HomeWork7/shape/IsoscelesTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HomeWork7/shape/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HomeWork7/shape/Parallelogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HomeWork7/shape/Quadrilateral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HomeWork7/shape/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HomeWork7/shape/RighTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HomeWork7/shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HomeWork7/shape/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HomeWork7/shape/Trapezium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HomeWork7/shape/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Home work 6/out/production/Home work 6/Credit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Home work 6/out/production/Home work 6/Credit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Home work 6/out/production/Home work 6/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Home work 6/out/production/Home work 6/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Home work 6/out/production/Home work 6/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Home work 6/out/production/Home work 6/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Home work 6/out/production/Home work 6/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Home work 6/out/production/Home work 6/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Home work 6/src/Credit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Home work 6/src/Credit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Home work 6/src/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Home work 6/src/Triangle.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2MT4Fo4pts3TkbGhYoHhDJhUE57" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/nataly.gvadzbaya/IdeaProjects/Hillel HW"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78f8fd37-db1e-4a4d-b3e1-5984f9c40176" name="Changes" comment="" />
+      <created>1677778136537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677778136537</updated>
+    </task>
+    <servers />
+  </component>
+</project>

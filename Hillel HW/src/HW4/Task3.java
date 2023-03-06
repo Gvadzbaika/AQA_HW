@@ -63,3 +63,10 @@ public class Task3 {
 
     }
 }
+
+        //Розрахунок щомісчного платежу -
+        double monthlyPayment = (sumCredit * monthlyPercent/100/12) /
+        (1 - Math.pow(1 + monthlyPercent/100/12, -numPayments));
+        //Кілкість щомісячних платежів
+        int numPayments = (int) Math.ceil(-(Math.log(1 - monthlyPercent/100/12 * sumCredit / monthlyPayment) /
+        Math.log(1 + monthlyPercent/100/12)));

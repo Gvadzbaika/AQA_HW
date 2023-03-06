@@ -42,6 +42,7 @@ public class Triangle {
         return p;
     }
     //По формуле Герона
+
     public double squareOfTriangle() {
         double p = 0.5 * (a + b + c);
         double s = Math.sqrt(p * (p - a) * (p - b) * (p - c));

@@ -16,15 +16,12 @@ public class Credit {
         this.termMonth = termMonth;
         this.present = presentInMonth;
     }
-
     public double getAmountOfCredit() {
         return amountOfCredit;
     }
-
     public void setAmountOfCredit(double amountOfCredit) {
         this.amountOfCredit = amountOfCredit;
     }
-
     public double getAmountInMonth() {
         return amountInMonth;
     }

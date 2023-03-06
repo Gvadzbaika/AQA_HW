@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d8c93aa-4a7a-4d9b-a961-57625c49afc6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork7/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork7/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork7/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape/Diamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape/EquilateralTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape/IsoscelesTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape/Parallelogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape/Quadrilateral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape/RighTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape/Trapezium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hillel HW/out/production/Hillel HW/HW3/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hillel HW/out/production/Hillel HW/HW3/Task2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hillel HW/out/production/Hillel HW/HW3/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hillel HW/out/production/Hillel HW/HW3/Task3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hillel HW/out/production/Hillel HW/HW4/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hillel HW/out/production/Hillel HW/HW4/Task1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hillel HW/out/production/Hillel HW/HW4/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hillel HW/out/production/Hillel HW/HW4/Task2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hillel HW/src/HW4/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hillel HW/src/HW4/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Home work 6/out/production/Home work 6/Credit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Home work 6/out/production/Home work 6/Credit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Home work 6/out/production/Home work 6/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Home work 6/out/production/Home work 6/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Home work 6/out/production/Home work 6/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Home work 6/out/production/Home work 6/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Home work 6/out/production/Home work 6/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Home work 6/out/production/Home work 6/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Home work 6/src/Credit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Home work 6/src/Credit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Home work 6/src/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Home work 6/src/Triangle.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MFN2OyrfXOYH1pKefXPvYnsCP1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nataly.gvadzbaya/IdeaProjects/Hillel HW/src/HW4/Task3.java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HomeWork7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HomeWork7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d8c93aa-4a7a-4d9b-a961-57625c49afc6" name="Changes" comment="" />
+      <created>1677359164986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677359164986</updated>
+    </task>
+    <servers />
+  </component>
+</project>
