@@ -1,6 +1,6 @@
 public enum Size {
-    S("S",10,10),M("M",15,15),L("L",20,20),
-    XL("XL",25,25),XXL("XXL",30,30);
+    S("S",10,15),M("M",20,25),L("L",30,35),
+    XL("XL",40,45),XXL("XXL",50,55);
     private String name;
     private double width;
     private double length;
@@ -19,6 +19,5 @@ public enum Size {
     public double getLength(){
         return length;
     }
-
-}
+ }
 
