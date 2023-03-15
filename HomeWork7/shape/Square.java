@@ -1,7 +1,7 @@
 public class Square extends Quadrilateral {
 
     public Square(double a) {
-        super(a,a,a);
+        super(a,a,a,a);
     }
         @Override
     public double getArea() {

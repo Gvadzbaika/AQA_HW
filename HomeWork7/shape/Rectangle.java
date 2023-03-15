@@ -2,7 +2,7 @@ public class Rectangle extends Quadrilateral {
 
 
     public Rectangle(double a, double b){
-       super(a,a,b);
+       super(a,b,a,b);
     }
         @Override
     public double getArea() {

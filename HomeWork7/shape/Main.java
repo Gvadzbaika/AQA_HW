@@ -18,6 +18,8 @@ public class Main {
         System.out.println(th.getArea());
         Rectangle rect = new Rectangle(2,2);
         System.out.println(rect.getArea());
+        Trapezium t= new Trapezium(3,2,3,6);
+        System.out.println(t.getArea());
 
     }
 }

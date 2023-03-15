@@ -1,18 +1,15 @@
 public class Quadrilateral extends Shape {
     private double a;
     private double b;
-    private double h;
+    private double c;
+    private double d;
 
-    public Quadrilateral(double a, double b){
+    public Quadrilateral(double a, double b, double c, double d){
         this.a=a;
         this.b=b;
+        this.c=c;
+        this.d=d;
     }
-    public Quadrilateral(double a, double b, double h){
-        this.a=a;
-        this.b=b;
-        this.h=h;
-    }
-
 
     public double getA() {
         return a;
@@ -20,7 +17,17 @@ public class Quadrilateral extends Shape {
     public double getB() {
         return b;
     }
-    public double getH() {
-        return h;
+    public double getC() {
+        return c;
+    }
+
+    public double getD() {
+        return d;
+    }
+    @Override
+    public double getArea() {
+        double s;
+        s = getA()*getB();
+        return s;
     }
 }

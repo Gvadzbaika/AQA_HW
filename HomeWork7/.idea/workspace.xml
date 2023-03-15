@@ -5,36 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d8c93aa-4a7a-4d9b-a961-57625c49afc6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../HW9/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HW9/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HW9/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HW9/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HW9/HW9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HW9/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HW9/src/Size.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW8/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW8/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW8/HW8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW8/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW8/src/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW8/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW8/src/Drive_able.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW8/src/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW8/src/Fly_able.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW8/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW8/src/Mammals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW8/src/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW8/src/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW8/src/Swim_able.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW8/src/Transport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW8/src/UnFlyableBird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW8/src/Walk_able.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW9/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HW9/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW9/src/Size.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HW9/src/Size.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork7/Diamond.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork7/Diamond.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork7/EquilateralTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork7/EquilateralTriangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork7/IsoscelesTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork7/IsoscelesTriangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork7/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork7/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork7/Parallelogram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork7/Parallelogram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork7/Quadrilateral.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork7/Quadrilateral.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork7/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork7/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork7/RighTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork7/RighTriangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork7/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork7/Square.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork7/Trapezium.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork7/Trapezium.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork7/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork7/Triangle.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shape/Diamond.java" beforeDir="false" afterPath="$PROJECT_DIR$/shape/Diamond.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shape/EquilateralTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/shape/EquilateralTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shape/IsoscelesTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/shape/IsoscelesTriangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shape/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/shape/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shape/Parallelogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/shape/Parallelogram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shape/Quadrilateral.java" beforeDir="false" afterPath="$PROJECT_DIR$/shape/Quadrilateral.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shape/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/shape/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shape/RighTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/shape/RighTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shape/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/shape/Shape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shape/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/shape/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shape/Trapezium.java" beforeDir="false" afterPath="$PROJECT_DIR$/shape/Trapezium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shape/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/shape/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +65,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/nataly.gvadzbaya/IdeaProjects/HomeWork7"
+    "last_opened_file_path": "C:/Users/nataly.gvadzbaya/IdeaProjects/HW8"
   }
 }]]></component>
   <component name="RecentsManager">
