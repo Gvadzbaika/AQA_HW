@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public enum TypeOfProduct {
+public enum TypeOfProduct {
+    GROCERY,
+    NONGROSERY,
 }
