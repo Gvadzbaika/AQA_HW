@@ -1,6 +1,6 @@
 import java.util.Date;
 
-public class NonGrocery implements Product{
+public class NonGrocery extends Product{
     private static int nonGroseryCount;
     private String creationDate = String.valueOf(new Date());
     private String expirationTerm = "1 year";

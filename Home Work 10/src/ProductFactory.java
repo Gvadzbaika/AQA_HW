@@ -19,7 +19,7 @@ public class ProductFactory {
         return toReturn;
     }
     public String printCount() {
-        return "Factory created " +groseryCount + " grosery products\n" +
-                "Factory created " + nonGroseryCount + " nongrosery products";
+        return "Factory created " +groseryCount + " grocery products\n" +
+                "Factory created " + nonGroseryCount + " non-grocery products";
     }
 }

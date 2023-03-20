@@ -1,6 +1,6 @@
 import java.util.Date;
 
-public class Grocery implements Product {
+public class Grocery extends Product {
     private static int groseryCount;
     private String creationDate = String.valueOf(new Date());
     private String warrantyPeriod = "1 week";

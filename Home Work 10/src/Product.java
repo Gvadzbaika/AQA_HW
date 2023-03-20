@@ -1,3 +1,3 @@
-public interface Product {
-    String getInfo();
+public abstract class Product {
+    public abstract String getInfo();
 }

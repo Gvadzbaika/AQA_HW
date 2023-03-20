@@ -15,7 +15,7 @@ public class Main {
         System.out.println(factory.printCount());
         System.out.println(Grocery.getGroseryCount());
         System.out.println(NonGrocery.getNonGroseryCount());
-        
+
         System.out.println(milk.getInfo());
         System.out.println(book2.getInfo());
         System.out.println(Grocery.getGroseryCount());
