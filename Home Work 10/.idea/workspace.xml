@@ -4,11 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f5e5ffd-ccc3-422c-a5a8-d6e06c3efd6e" name="Changes" comment="" />
+    <list default="true" id="8f5e5ffd-ccc3-422c-a5a8-d6e06c3efd6e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/Home Work 10/Grocery.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Home Work 10/Grocery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Home Work 10/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Home Work 10/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Home Work 10/NonGrocery.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Home Work 10/NonGrocery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Home Work 10/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Home Work 10/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Grocery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Grocery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NonGrocery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NonGrocery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProductFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProductFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork7/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
