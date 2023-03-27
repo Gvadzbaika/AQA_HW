@@ -1,15 +1,15 @@
-public class Triangle extends Shape {
-
+public class Quadrilateral extends Shape {
     private double firstSide;
     private double secondSide;
     private double thirdSide;
+    private double foursSide;
 
-    public Triangle(double firstSide, double secondSide, double c) {
+    public Quadrilateral(double firstSide, double secondSide, double thirdSide, double foursSide){
         this.firstSide=firstSide;
         this.secondSide=secondSide;
-        this.secondSide=secondSide;
+        this.thirdSide=thirdSide;
+        this.foursSide=foursSide;
     }
-
 
     public double getFirstSide() {
         return firstSide;
@@ -20,18 +20,21 @@ public class Triangle extends Shape {
     public double getThirdSide() {
         return thirdSide;
     }
+
+    public double getFoursSide() {
+        return foursSide;
+    }
     @Override
-    public double getArea() {
-        double p = 0.5 * (getFirstSide() + getSecondSide() + getThirdSide());
-        double s = Math.sqrt(p * (p - getFirstSide()) * (p - getSecondSide()) * (p - getThirdSide()));
+    public double getSquare() {
+        double s;
+        s = getFirstSide()*getSecondSide();
         return s;
     }
 
     @Override
     public double getPerimeter() {
         double p;
-        p = (getFirstSide()+getSecondSide()+getThirdSide());
+        p = (getFirstSide()+getSecondSide())*2;
         return p;
     }
 }
-

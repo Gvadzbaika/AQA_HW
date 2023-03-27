@@ -1,16 +1,16 @@
-public class Rectangle extends Quadrilateral {
 
+public class Parallelogram extends Quadrilateral {
 
-    public Rectangle(double firstSide, double secondSide){
-       super(firstSide,secondSide,firstSide,secondSide);
+    Parallelogram(double firstSide, double secondSide){
+        super(firstSide,secondSide,firstSide,secondSide);
     }
+
     @Override
-    public double getArea() {
+    public double getSquare() {
         double s;
         s = getFirstSide()*getSecondSide();
         return s;
     }
-    @Override
     public double getPerimeter() {
         double p;
         p = (getFirstSide()+getSecondSide())*2;

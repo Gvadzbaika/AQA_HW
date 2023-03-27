@@ -11,7 +11,7 @@ public class Diamond extends Quadrilateral {
         return p;
     }
     @Override
-    public double getArea() {
+    public double getSquare() {
         double s;
         s = getFirstSide()*getSecondSide();
         return s;

@@ -1,33 +1,40 @@
 public class Quadrilateral extends Shape {
-    private double a;
-    private double b;
-    private double c;
-    private double d;
+    private double firstSide;
+    private double secondSide;
+    private double thirdSide;
+    private double foursSide;
 
-    public Quadrilateral(double a, double b, double c, double d){
-        this.a=a;
-        this.b=b;
-        this.c=c;
-        this.d=d;
-    }
-
-    public double getA() {
-        return a;
-    }
-    public double getB() {
-        return b;
-    }
-    public double getC() {
-        return c;
+    public Quadrilateral(double firstSide, double secondSide, double thirdSide, double foursSide){
+        this.firstSide=firstSide;
+        this.secondSide=secondSide;
+        this.thirdSide=thirdSide;
+        this.foursSide=foursSide;
     }
 
-    public double getD() {
-        return d;
+    public double getFirstSide() {
+        return firstSide;
+    }
+    public double getSecondSide() {
+        return secondSide;
+    }
+    public double getThirdSide() {
+        return thirdSide;
+    }
+
+    public double getFoursSide() {
+        return foursSide;
     }
     @Override
     public double getArea() {
         double s;
-        s = getA()*getB();
+        s = getFirstSide()*getSecondSide();
         return s;
+    }
+
+    @Override
+    public double getPerimeter() {
+        double p;
+        p = (getFirstSide()+getSecondSide())*2;
+        return p;
     }
 }

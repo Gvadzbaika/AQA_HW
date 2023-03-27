@@ -5,7 +5,7 @@ public class RighTriangle extends Triangle {
     }
 
     @Override
-    public double getArea() {
+    public double getSquare() {
         double s = (getFirstSide()*getSecondSide())/2;
         return s;
     }

@@ -5,7 +5,7 @@ public class Rectangle extends Quadrilateral {
        super(firstSide,secondSide,firstSide,secondSide);
     }
     @Override
-    public double getArea() {
+    public double getSquare() {
         double s;
         s = getFirstSide()*getSecondSide();
         return s;

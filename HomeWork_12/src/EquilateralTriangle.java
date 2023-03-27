@@ -5,7 +5,7 @@ public class EquilateralTriangle extends Triangle {
         super(firstSide,firstSide,firstSide);
     }
     @Override
-    public double getArea() {
+    public double getSquare() {
             double s = Math.sqrt(3)/4*Math.pow(getFirstSide(),2);
             return s;
     }

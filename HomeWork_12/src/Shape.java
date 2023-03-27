@@ -1,4 +1,4 @@
 public abstract class Shape {
-        public abstract double getArea ();
+        public abstract double getSquare ();
         public abstract double getPerimeter ();
 }
