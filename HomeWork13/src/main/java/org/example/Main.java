@@ -3,9 +3,6 @@ package org.example;
 import java.util.Arrays;
 import java.util.Scanner;
 
-import static org.example.SquareEq.solve;
-import static org.junit.Assert.assertArrayEquals;
-
 public class Main {
     public static void main(String[] args) {
         double a, b, c;
@@ -19,14 +16,15 @@ public class Main {
         b = in.nextDouble();
         System.out.println("Введите c: ");
         c = in.nextDouble();
-        double res[] = solve(a, b, c);
-        if (res.length == 2) {
+        SquareEq roots =  new SquareEq();
+        Roots res = roots.solve(a,b,c);
+        if (res.getNumOfRoots()== 2) {
             System.out.println("Уравнение ax^2 + bx + c = 0 имеет корни: \n" +
-                    "x1 = " + res[0] + "\nx2 = " + res[1]);
+                    "x1 = " + res.getRoot1() + "\nx2 = " + res.getRoot2());
         }
-        else if (res.length == 1){
+        else if (res.getNumOfRoots() == 1){
             System.out.println("Уравнение ax^2 + bx + c = 0 имеет один корень: \n" +
-                    "x1 = " + res[0]);
+                    "x1 = " + res.getRoot1());
         }
         else {
             System.out.println("Уравнение не имеет действительных корней!");
